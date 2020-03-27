@@ -1,0 +1,4 @@
+C:\Users\Jasmine Williams\Desktop\workspace\WalkItLikeYouWagIt\WalkItLikeYouWagItConsole\WalkItLikeYouWagItConsole\bin\Debug\netcoreapp3.1\WalkItLikeYouWagItConsole.exe
+C:\Users\Jasmine Williams\Desktop\workspace\WalkItLikeYouWagIt\WalkItLikeYouWagItConsole\WalkItLikeYouWagItConsole\obj\Debug\netcoreapp3.1\WalkItLikeYouWagItConsole.csprojAssemblyReference.cache
+C:\Users\Jasmine Williams\Desktop\workspace\WalkItLikeYouWagIt\WalkItLikeYouWagItConsole\WalkItLikeYouWagItConsole\obj\Debug\netcoreapp3.1\WalkItLikeYouWagItConsole.AssemblyInfoInputs.cache
+C:\Users\Jasmine Williams\Desktop\workspace\WalkItLikeYouWagIt\WalkItLikeYouWagItConsole\WalkItLikeYouWagItConsole\obj\Debug\netcoreapp3.1\WalkItLikeYouWagItConsole.AssemblyInfo.cs
