@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WalkItLikeYouWagItConsole.Data
 {
-    class Class1
+    class OwnerRepository
     {
     }
 }
